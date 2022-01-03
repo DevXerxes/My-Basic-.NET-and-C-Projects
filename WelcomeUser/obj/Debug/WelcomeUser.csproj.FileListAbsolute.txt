@@ -1,0 +1,6 @@
+C:\Users\vidin\OneDrive\Desktop\Basic_C#_Programs\WelcomeUser\WelcomeUser\bin\Debug\WelcomeUser.exe.config
+C:\Users\vidin\OneDrive\Desktop\Basic_C#_Programs\WelcomeUser\WelcomeUser\bin\Debug\WelcomeUser.exe
+C:\Users\vidin\OneDrive\Desktop\Basic_C#_Programs\WelcomeUser\WelcomeUser\bin\Debug\WelcomeUser.pdb
+C:\Users\vidin\OneDrive\Desktop\Basic_C#_Programs\WelcomeUser\WelcomeUser\obj\Debug\WelcomeUser.csproj.CoreCompileInputs.cache
+C:\Users\vidin\OneDrive\Desktop\Basic_C#_Programs\WelcomeUser\WelcomeUser\obj\Debug\WelcomeUser.exe
+C:\Users\vidin\OneDrive\Desktop\Basic_C#_Programs\WelcomeUser\WelcomeUser\obj\Debug\WelcomeUser.pdb
