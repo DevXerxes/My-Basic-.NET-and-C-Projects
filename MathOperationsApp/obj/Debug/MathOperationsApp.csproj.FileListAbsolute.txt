@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\MathOperationsApp\MathOperationsApp\bin\Debug\MathOperationsApp.exe.config
+C:\Users\vidin\source\repos\MathOperationsApp\MathOperationsApp\bin\Debug\MathOperationsApp.exe
+C:\Users\vidin\source\repos\MathOperationsApp\MathOperationsApp\bin\Debug\MathOperationsApp.pdb
+C:\Users\vidin\source\repos\MathOperationsApp\MathOperationsApp\obj\Debug\MathOperationsApp.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\MathOperationsApp\MathOperationsApp\obj\Debug\MathOperationsApp.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\MathOperationsApp\MathOperationsApp\obj\Debug\MathOperationsApp.exe
+C:\Users\vidin\source\repos\MathOperationsApp\MathOperationsApp\obj\Debug\MathOperationsApp.pdb
