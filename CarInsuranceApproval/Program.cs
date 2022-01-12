@@ -35,7 +35,7 @@ namespace CarInsuranceApproval
             //Using the OR operator to capture desired results of program
             //OR operator is true if at least 1 of comparisons is true
             //^ its false if no comparisons is true
-            bool carIns = (whatAge > 15 || youDUI == false || howTickets < 3 );
+            bool carIns = (whatAge > 15 && youDUI == false && howTickets <= 3 );
             Console.WriteLine(carIns);
 
             Console.ReadLine();
