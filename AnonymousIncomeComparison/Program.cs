@@ -45,18 +45,18 @@ namespace AnonymousIncomeComparison
 
             //Using multiplication to get exact annual rate of Person 1
             int product = hourlyRate * hoursPerWeek;
-            int finalRate = product * 53;
+            int finalRate = product * 52;
             Console.WriteLine("Annual salary of Person 1: " + finalRate);
 
             //Using multiplication to get exact annual rate of Person 1
             int product2 = hourlyRate2 * hoursPerWeek2;
-            int finalRate2 = product2 * 53;
+            int finalRate2 = product2 * 52;
             Console.WriteLine("Annual salary of Person 2: " + finalRate2);
 
             //using boolean logic to check which person,
             //makes the most money annually
             Console.WriteLine("Does Person 1 make more money than Person 2?");
-            bool comparisonRate = finalRate >= finalRate2;
+            bool comparisonRate = finalRate > finalRate2;
             Console.WriteLine(comparisonRate);
 
             Console.WriteLine("Thank you for cooperating. Have a great day!");
