@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.exe.config
+C:\Users\vidin\source\repos\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.exe
+C:\Users\vidin\source\repos\ShippingQuoteApp\ShippingQuoteApp\bin\Debug\ShippingQuoteApp.pdb
+C:\Users\vidin\source\repos\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.exe
+C:\Users\vidin\source\repos\ShippingQuoteApp\ShippingQuoteApp\obj\Debug\ShippingQuoteApp.pdb
