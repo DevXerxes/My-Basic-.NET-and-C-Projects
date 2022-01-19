@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\TechAcademyLocation\TechAcademyLocation\bin\Debug\TechAcademyLocation.exe.config
+C:\Users\vidin\source\repos\TechAcademyLocation\TechAcademyLocation\bin\Debug\TechAcademyLocation.exe
+C:\Users\vidin\source\repos\TechAcademyLocation\TechAcademyLocation\bin\Debug\TechAcademyLocation.pdb
+C:\Users\vidin\source\repos\TechAcademyLocation\TechAcademyLocation\obj\Debug\TechAcademyLocation.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\TechAcademyLocation\TechAcademyLocation\obj\Debug\TechAcademyLocation.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\TechAcademyLocation\TechAcademyLocation\obj\Debug\TechAcademyLocation.exe
+C:\Users\vidin\source\repos\TechAcademyLocation\TechAcademyLocation\obj\Debug\TechAcademyLocation.pdb
