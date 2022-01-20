@@ -68,6 +68,14 @@ namespace TechAcademyLocation
             //while includes symbol "!" that is short for statement "false"
             while (!youCorrect);
 
+            //now using just a while loop
+            int m = 1;
+            while (m < 11)
+            {
+                Console.WriteLine(m);
+                m++;
+            }
+
             Console.ReadLine();
         }
     }
