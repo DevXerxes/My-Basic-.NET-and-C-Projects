@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe.config
+C:\Users\vidin\source\repos\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.exe
+C:\Users\vidin\source\repos\ConsoleAppArray\ConsoleAppArray\bin\Debug\ConsoleAppArray.pdb
+C:\Users\vidin\source\repos\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.exe
+C:\Users\vidin\source\repos\ConsoleAppArray\ConsoleAppArray\obj\Debug\ConsoleAppArray.pdb
