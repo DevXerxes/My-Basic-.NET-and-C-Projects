@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\StringsandIntegersTryCatch App\StringsandIntegersTryCatch App\bin\Debug\StringsandIntegersTryCatch App.exe.config
+C:\Users\vidin\source\repos\StringsandIntegersTryCatch App\StringsandIntegersTryCatch App\bin\Debug\StringsandIntegersTryCatch App.exe
+C:\Users\vidin\source\repos\StringsandIntegersTryCatch App\StringsandIntegersTryCatch App\bin\Debug\StringsandIntegersTryCatch App.pdb
+C:\Users\vidin\source\repos\StringsandIntegersTryCatch App\StringsandIntegersTryCatch App\obj\Debug\StringsandIntegersTryCatch App.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\StringsandIntegersTryCatch App\StringsandIntegersTryCatch App\obj\Debug\StringsandIntegersTryCatch App.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\StringsandIntegersTryCatch App\StringsandIntegersTryCatch App\obj\Debug\StringsandIntegersTryCatch App.exe
+C:\Users\vidin\source\repos\StringsandIntegersTryCatch App\StringsandIntegersTryCatch App\obj\Debug\StringsandIntegersTryCatch App.pdb
