@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\ArrayListsLoops\ArrayListsLoops\bin\Debug\ArrayListsLoops.exe.config
+C:\Users\vidin\source\repos\ArrayListsLoops\ArrayListsLoops\bin\Debug\ArrayListsLoops.exe
+C:\Users\vidin\source\repos\ArrayListsLoops\ArrayListsLoops\bin\Debug\ArrayListsLoops.pdb
+C:\Users\vidin\source\repos\ArrayListsLoops\ArrayListsLoops\obj\Debug\ArrayListsLoops.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\ArrayListsLoops\ArrayListsLoops\obj\Debug\ArrayListsLoops.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\ArrayListsLoops\ArrayListsLoops\obj\Debug\ArrayListsLoops.exe
+C:\Users\vidin\source\repos\ArrayListsLoops\ArrayListsLoops\obj\Debug\ArrayListsLoops.pdb
