@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\CallingMethodsApp\CallingMethodsApp\bin\Debug\CallingMethodsApp.exe.config
+C:\Users\vidin\source\repos\CallingMethodsApp\CallingMethodsApp\bin\Debug\CallingMethodsApp.exe
+C:\Users\vidin\source\repos\CallingMethodsApp\CallingMethodsApp\bin\Debug\CallingMethodsApp.pdb
+C:\Users\vidin\source\repos\CallingMethodsApp\CallingMethodsApp\obj\Debug\CallingMethodsApp.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\CallingMethodsApp\CallingMethodsApp\obj\Debug\CallingMethodsApp.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\CallingMethodsApp\CallingMethodsApp\obj\Debug\CallingMethodsApp.exe
+C:\Users\vidin\source\repos\CallingMethodsApp\CallingMethodsApp\obj\Debug\CallingMethodsApp.pdb
