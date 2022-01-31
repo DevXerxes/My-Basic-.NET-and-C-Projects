@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.exe.config
+C:\Users\vidin\source\repos\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.exe
+C:\Users\vidin\source\repos\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.pdb
+C:\Users\vidin\source\repos\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.exe
+C:\Users\vidin\source\repos\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.pdb
