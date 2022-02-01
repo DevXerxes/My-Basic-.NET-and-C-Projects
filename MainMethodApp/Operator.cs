@@ -13,16 +13,18 @@ namespace MainMethodApp
         }
 
         //2nd method with same name but different math operation (decimal integer)
-        public decimal NumOp(decimal data, decimal value)
+        public int NumOp(decimal data, decimal value)
         {
-            return data - value;
+            return Convert.ToInt32(data - value);
         }
 
         //3rd method with same name, taking in string and displaying
         // result as an integer
-        public string NumOp (string data, int value)
+        public int NumOp (string data, string value)
         {
-            return Int32.TryParse(data) * value;
+            int answer = Int32.Parse(data);
+            int answer2 = Int32.Parse(value);
+            return answer * answer2;
         }
     }
 }
