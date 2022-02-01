@@ -20,9 +20,12 @@ class Program
         // and adds the users text input to end of each string
         // and does not output to console but updates each array
         // element by appending users text
+
         for (int m = 0; m < names.Length; m++)
         {
-             Console.WriteLine(names[m] + compliment);
+            names[m] += compliment;
+            Console.WriteLine(names[m]);
+
         }
 
         // Creating infinite loop
@@ -66,12 +69,11 @@ class Program
         Console.WriteLine("A loop using the <= operator:");
         // a for loop where comparison used by "<=" operator determines 
         // if to continue iterating through loop
-        for (int m = 0; m < ranNums.Length; m++)
+        for (int m = 0; m <=5; m++)
         {
-            if (ranNums[m] <= 54)
-            {
-                Console.WriteLine(ranNums[m]);
-            }
+            
+             Console.WriteLine(m);
+            
         }
 
 
@@ -90,24 +92,17 @@ class Program
         // that contains matching text on screen
         foreach (string animal in urAnimal)
         {
-            //finding index
-            int index = urAnimal.FindIndex(a => a.Contains(animalName));
 
-            //displaying index
-            Console.WriteLine("Your animal is found at index: " + index);
-
-            // if statement checking if user input
-            // is on list or not
-            if (animalName != animal)
+            if (urAnimal.Contains(animalName) == false)
             {
                 Console.WriteLine("Sorry, your animal is not on the list.");
+                break;
             }
-            else
+            else if (animal == animalName)
             {
-                //using this command to stop loop
-                // from executing once match is found
-                //Environment.Exit(0); //remove comment slashes to use environment code
-                Console.WriteLine(index);
+                //displaying index
+                Console.WriteLine("Your animal is found at index: " + urAnimal.IndexOf(animal));
+                break;
             }
 
             
@@ -128,7 +123,6 @@ class Program
         };
         //asking user to select text to search for in list
         Console.WriteLine("Select a Fast food spot that\'s your favorite: ");
-        Console.WriteLine(foodSpots);
         string urSpot = Console.ReadLine();
 
         //for loop to access indices of each item
@@ -163,27 +157,26 @@ class Program
             "Orange",
             "Watermelon"
         };
+        List<string> duplicates = new List<string>();
 
         //foreach loop that evaluates each item in list
         Console.WriteLine("Fruit List...\n");
-        foreach (string fruit in fruits)
-        {
-            //displaying string 
-            Console.WriteLine(fruit);
-        }
-
         Console.WriteLine("Looking for fruit in the list...\n");
         //if statement to check if fruit already exists in list
         //using Contains to check the items contained in the list
-        if (fruits.Contains("Watermelon") == true)
+        foreach (string fruit in fruits)
         {
-            Console.WriteLine("Watermelon already exists, twice!");
-        }
-        else
-        {
-            Console.WriteLine("Item does not exist!");
-        }
+            if (duplicates.Contains(fruit))
+            {
+                Console.WriteLine("The fruit "+ fruit +" has repeated!");
+            }
+            else
+            {
+                Console.WriteLine("This fruit " + fruit + " has not repeated.");
+            }
+            duplicates.Add(fruit);
 
+        }
 
         Console.ReadLine();
     }
