@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\MethodOptionApp\MethodOptionApp\bin\Debug\MethodOptionApp.exe.config
+C:\Users\vidin\source\repos\MethodOptionApp\MethodOptionApp\bin\Debug\MethodOptionApp.exe
+C:\Users\vidin\source\repos\MethodOptionApp\MethodOptionApp\bin\Debug\MethodOptionApp.pdb
+C:\Users\vidin\source\repos\MethodOptionApp\MethodOptionApp\obj\Debug\MethodOptionApp.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\MethodOptionApp\MethodOptionApp\obj\Debug\MethodOptionApp.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\MethodOptionApp\MethodOptionApp\obj\Debug\MethodOptionApp.exe
+C:\Users\vidin\source\repos\MethodOptionApp\MethodOptionApp\obj\Debug\MethodOptionApp.pdb
