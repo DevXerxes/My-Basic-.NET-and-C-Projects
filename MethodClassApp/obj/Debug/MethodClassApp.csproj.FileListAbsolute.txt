@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\MethodClassApp\MethodClassApp\bin\Debug\MethodClassApp.exe.config
+C:\Users\vidin\source\repos\MethodClassApp\MethodClassApp\bin\Debug\MethodClassApp.exe
+C:\Users\vidin\source\repos\MethodClassApp\MethodClassApp\bin\Debug\MethodClassApp.pdb
+C:\Users\vidin\source\repos\MethodClassApp\MethodClassApp\obj\Debug\MethodClassApp.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\MethodClassApp\MethodClassApp\obj\Debug\MethodClassApp.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\MethodClassApp\MethodClassApp\obj\Debug\MethodClassApp.exe
+C:\Users\vidin\source\repos\MethodClassApp\MethodClassApp\obj\Debug\MethodClassApp.pdb
