@@ -13,7 +13,10 @@ namespace MethodClassApp
             //instantiating the class Void
             Void veid = new Void();
             veid.NumVoid(6, 7);
-            Convert.ToString(veid.NumVoid("six", "seven"));
+            //calling method by specifying paratmeters by name
+            veid.NumVoid( a: 6, b: 7);
+            Console.ReadLine();
+
         }
     }
 }
