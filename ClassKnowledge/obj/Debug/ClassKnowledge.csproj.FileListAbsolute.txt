@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\ClassKnowledge\ClassKnowledge\bin\Debug\ClassKnowledge.exe.config
+C:\Users\vidin\source\repos\ClassKnowledge\ClassKnowledge\bin\Debug\ClassKnowledge.exe
+C:\Users\vidin\source\repos\ClassKnowledge\ClassKnowledge\bin\Debug\ClassKnowledge.pdb
+C:\Users\vidin\source\repos\ClassKnowledge\ClassKnowledge\obj\Debug\ClassKnowledge.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\ClassKnowledge\ClassKnowledge\obj\Debug\ClassKnowledge.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\ClassKnowledge\ClassKnowledge\obj\Debug\ClassKnowledge.exe
+C:\Users\vidin\source\repos\ClassKnowledge\ClassKnowledge\obj\Debug\ClassKnowledge.pdb
