@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\AbstractClass App\AbstractClass App\bin\Debug\AbstractClass App.exe.config
+C:\Users\vidin\source\repos\AbstractClass App\AbstractClass App\bin\Debug\AbstractClass App.exe
+C:\Users\vidin\source\repos\AbstractClass App\AbstractClass App\bin\Debug\AbstractClass App.pdb
+C:\Users\vidin\source\repos\AbstractClass App\AbstractClass App\obj\Debug\AbstractClass App.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\AbstractClass App\AbstractClass App\obj\Debug\AbstractClass App.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\AbstractClass App\AbstractClass App\obj\Debug\AbstractClass App.exe
+C:\Users\vidin\source\repos\AbstractClass App\AbstractClass App\obj\Debug\AbstractClass App.pdb
