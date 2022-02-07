@@ -10,6 +10,10 @@ namespace AbstractClass_App
     {
         static void Main(string[] args)
         {
+            //instantiating polymorphism with interface to the inherited class employee
+            IQuittable obj1 = new Employee();
+            obj1.Quit();
+
             //instantiating an Employee object
             Employee user = new Employee();
             //here is the values of that object

@@ -19,12 +19,9 @@ namespace AbstractClass_App
             Console.WriteLine("Name: " + fullName);
         }
         //using the interface method here in a way i chose
-        void IQuittable.Quit(Employee user)
+        public void Quit()
         {
-            if (user.firstName == "Sample")
-            {
-                Console.WriteLine("This employee " + firstName + " wants to quit.");
-            }
+            Console.WriteLine("I Quit!");
         }
     }
 }

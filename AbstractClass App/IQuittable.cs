@@ -11,6 +11,6 @@ namespace AbstractClass_App
     interface IQuittable
     {
         //void method that has an employee quit
-        void Quit(Employee user);
+        void Quit();
     }
 }
