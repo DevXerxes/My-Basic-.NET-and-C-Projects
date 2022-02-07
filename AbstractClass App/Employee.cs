@@ -10,6 +10,9 @@ namespace AbstractClass_App
     //employee class can now use properties of Person class
     class Employee : Person, IQuittable
     {
+        //int method taking in Id for each new employee
+        public int Id { get; set; }
+
         //implementing SayName method from Person abstract class
         //a method to display the full name on console
         public void SayName()
@@ -22,6 +25,14 @@ namespace AbstractClass_App
         public void Quit()
         {
             Console.WriteLine("I Quit!");
+        }
+
+        //overloading the "==" operator to check 
+        //if two Employee objects are equal, comparing their Id property
+        public static Person operator== (Employee user, Person person)
+        {
+            user.Id.CompareTo(person);
+            return user;
         }
     }
 }
