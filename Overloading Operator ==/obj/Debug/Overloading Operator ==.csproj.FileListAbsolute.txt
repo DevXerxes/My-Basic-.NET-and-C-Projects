@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\Overloading Operator ==\Overloading Operator ==\bin\Debug\Overloading Operator ==.exe.config
+C:\Users\vidin\source\repos\Overloading Operator ==\Overloading Operator ==\bin\Debug\Overloading Operator ==.exe
+C:\Users\vidin\source\repos\Overloading Operator ==\Overloading Operator ==\bin\Debug\Overloading Operator ==.pdb
+C:\Users\vidin\source\repos\Overloading Operator ==\Overloading Operator ==\obj\Debug\Overloading Operator ==.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\Overloading Operator ==\Overloading Operator ==\obj\Debug\Overloading Operator ==.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\Overloading Operator ==\Overloading Operator ==\obj\Debug\Overloading Operator ==.exe
+C:\Users\vidin\source\repos\Overloading Operator ==\Overloading Operator ==\obj\Debug\Overloading Operator ==.pdb
