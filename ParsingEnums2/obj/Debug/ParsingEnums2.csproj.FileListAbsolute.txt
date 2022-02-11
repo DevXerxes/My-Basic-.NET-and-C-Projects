@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\ParsingEnums2\ParsingEnums2\bin\Debug\ParsingEnums2.exe.config
+C:\Users\vidin\source\repos\ParsingEnums2\ParsingEnums2\bin\Debug\ParsingEnums2.exe
+C:\Users\vidin\source\repos\ParsingEnums2\ParsingEnums2\bin\Debug\ParsingEnums2.pdb
+C:\Users\vidin\source\repos\ParsingEnums2\ParsingEnums2\obj\Debug\ParsingEnums2.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\ParsingEnums2\ParsingEnums2\obj\Debug\ParsingEnums2.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\ParsingEnums2\ParsingEnums2\obj\Debug\ParsingEnums2.exe
+C:\Users\vidin\source\repos\ParsingEnums2\ParsingEnums2\obj\Debug\ParsingEnums2.pdb
