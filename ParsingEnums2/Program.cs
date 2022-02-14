@@ -27,7 +27,7 @@ public class Program
         {
             //assigning user value to variable of that enum data type created
             string urDay = Console.ReadLine();
-            Enum.Parse(typeof(DaysOfTheWeek), urDay);
+            DaysOfTheWeek week = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), urDay);
         }
         //catch block to catch any error and display the below message
         catch (Exception)
