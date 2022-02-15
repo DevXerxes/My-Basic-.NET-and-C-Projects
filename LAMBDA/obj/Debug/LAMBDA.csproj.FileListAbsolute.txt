@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\LAMBDA\LAMBDA\bin\Debug\LAMBDA.exe.config
+C:\Users\vidin\source\repos\LAMBDA\LAMBDA\bin\Debug\LAMBDA.exe
+C:\Users\vidin\source\repos\LAMBDA\LAMBDA\bin\Debug\LAMBDA.pdb
+C:\Users\vidin\source\repos\LAMBDA\LAMBDA\obj\Debug\LAMBDA.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\LAMBDA\LAMBDA\obj\Debug\LAMBDA.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\LAMBDA\LAMBDA\obj\Debug\LAMBDA.exe
+C:\Users\vidin\source\repos\LAMBDA\LAMBDA\obj\Debug\LAMBDA.pdb
