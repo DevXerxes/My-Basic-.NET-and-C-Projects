@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\InputToLog\InputToLog\bin\Debug\InputToLog.exe.config
+C:\Users\vidin\source\repos\InputToLog\InputToLog\bin\Debug\InputToLog.exe
+C:\Users\vidin\source\repos\InputToLog\InputToLog\bin\Debug\InputToLog.pdb
+C:\Users\vidin\source\repos\InputToLog\InputToLog\obj\Debug\InputToLog.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\InputToLog\InputToLog\obj\Debug\InputToLog.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\InputToLog\InputToLog\obj\Debug\InputToLog.exe
+C:\Users\vidin\source\repos\InputToLog\InputToLog\obj\Debug\InputToLog.pdb
