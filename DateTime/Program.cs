@@ -19,10 +19,10 @@ namespace Datetime
             Console.WriteLine("Enter any number: ");
             int urNum = Convert.ToInt32(Console.ReadLine());
             //printing the exact hour the user entered their number to the console
-            Console.WriteLine("You entered your number at exact hour of: ");
-            DateTime urNum2 = new DateTime(urNum);
+            DateTime urNum2 = DateTime.Now;
+            DateTime addedUrHours = urNum2.AddHours(urNum);
             //"h tt" h prints the hour and tt prints the time as day or night
-            Console.WriteLine(urNum2.ToString("h tt"));
+            Console.WriteLine("Time of your input:{0}", addedUrHours);
             
             
 
