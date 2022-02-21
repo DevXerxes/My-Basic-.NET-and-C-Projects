@@ -15,7 +15,7 @@ namespace TwentyOne
         {
             //Player newPlayer = new Player("Marlon");
 
-            Console.WriteLine("Welcome to the Ladies and Gents Casino. Let\' start by telling me your name.");
+            Console.WriteLine("Welcome to the Ladies and Gents Casino. Let\'s start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("And how much money did you bring today?");
             int bank = Convert.ToInt32(Console.ReadLine());
