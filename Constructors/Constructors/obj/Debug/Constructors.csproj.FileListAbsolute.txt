@@ -1,0 +1,7 @@
+C:\Users\vidin\source\repos\Twenty\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\vidin\source\repos\Twenty\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\Users\vidin\source\repos\Twenty\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\Users\vidin\source\repos\Twenty\Constructors\Constructors\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\Twenty\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\Twenty\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\Users\vidin\source\repos\Twenty\Constructors\Constructors\obj\Debug\Constructors.pdb
