@@ -3,3 +3,8 @@ C:\Users\vidin\source\repos\Twenty\TwentyOne\Casino\bin\Debug\Casino.pdb
 C:\Users\vidin\source\repos\Twenty\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\vidin\source\repos\Twenty\TwentyOne\Casino\obj\Debug\Casino.dll
 C:\Users\vidin\source\repos\Twenty\TwentyOne\Casino\obj\Debug\Casino.pdb
+C:\Users\vidin\source\repos\DevXerxes\My-Basic-.NET-and-C-Projects\TwentyOne\Casino\bin\Debug\Casino.dll
+C:\Users\vidin\source\repos\DevXerxes\My-Basic-.NET-and-C-Projects\TwentyOne\Casino\bin\Debug\Casino.pdb
+C:\Users\vidin\source\repos\DevXerxes\My-Basic-.NET-and-C-Projects\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\DevXerxes\My-Basic-.NET-and-C-Projects\TwentyOne\Casino\obj\Debug\Casino.dll
+C:\Users\vidin\source\repos\DevXerxes\My-Basic-.NET-and-C-Projects\TwentyOne\Casino\obj\Debug\Casino.pdb
