@@ -1,0 +1,13 @@
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\bin\Debug\StudentsDB.exe.config
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\bin\Debug\StudentsDB.exe
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\bin\Debug\StudentsDB.pdb
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\bin\Debug\EntityFramework.dll
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\bin\Debug\EntityFramework.xml
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\obj\Debug\StudentsDB.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\obj\Debug\StudentsDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\obj\Debug\StudentsDB.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\obj\Debug\StudentsDB.csproj.CopyComplete
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\obj\Debug\StudentsDB.exe
+C:\Users\vidin\source\repos\StudentsDB\StudentsDB\obj\Debug\StudentsDB.pdb
