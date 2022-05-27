@@ -1,0 +1,13 @@
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\bin\Debug\CodeFirstStudentsDB.exe.config
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\bin\Debug\CodeFirstStudentsDB.exe
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\bin\Debug\CodeFirstStudentsDB.pdb
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\bin\Debug\EntityFramework.dll
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\bin\Debug\EntityFramework.xml
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\obj\Debug\CodeFirstStudentsDB.csproj.AssemblyReference.cache
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\obj\Debug\CodeFirstStudentsDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\obj\Debug\CodeFirstStudentsDB.csproj.CoreCompileInputs.cache
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\obj\Debug\CodeFirstStudentsDB.csproj.CopyComplete
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\obj\Debug\CodeFirstStudentsDB.exe
+C:\Users\vidin\source\repos\CodeFirstStudentsDB\CodeFirstStudentsDB\obj\Debug\CodeFirstStudentsDB.pdb

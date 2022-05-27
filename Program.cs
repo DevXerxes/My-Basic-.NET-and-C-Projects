@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
 
-namespace StudentsDB
+namespace CodeFirstStudentsDB
 {
     internal class Program
     {
@@ -15,7 +15,7 @@ namespace StudentsDB
             {
                 // Create and save a new student
                 Console.Write("Adding new student... ");
-                
+
 
 
                 var student = new Student { StudentName = "Javier" };
@@ -48,8 +48,7 @@ namespace StudentsDB
     }
 
     public class StudentsList : DbContext
-        {
-            public DbSet<Student> Students { get; set; }
-        }
+    {
+        public DbSet<Student> Students { get; set; }
     }
-
+}
