@@ -82,29 +82,17 @@ namespace CarInsurance.Controllers
                     {
                         total += Convert.ToDecimal(speedingtickets * 10);
                     }
-                    else
-                    {
-                        total = total + 0;
-                    }
 
                     //If the user has ever had a DUI, add 25% to the total.
                     if (dui == true)
                     {
                         total = total + (total * 25 / 100);
                     }
-                    else
-                    {
-                        total = total + 0;
-                    }
 
                     //If it's full coverage, add 50% to the total.
                     if (coverage == true)
                     {
                         total = total + (total * 50 / 100);
-                    }
-                    else
-                    {
-                        total = total = 0;
                     }
 
                 return total;
@@ -175,6 +163,7 @@ namespace CarInsurance.Controllers
             if (ModelState.IsValid)
             {
                 db.Entry(insuree).State = EntityState.Modified;
+                insuree.Quote = Car_Info(insuree.FirstName, insuree.LastName, insuree.EmailAddress, insuree.DateOfBirth, insuree.CarYear, insuree.CarMake, insuree.CarModel, insuree.SpeedingTickets, insuree.DUI, insuree.CoverageType);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
