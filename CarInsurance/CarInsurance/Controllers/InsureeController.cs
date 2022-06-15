@@ -21,19 +21,19 @@ namespace CarInsurance.Controllers
         }
 
         //GET: Insuree/Calculate/5
-        public decimal Car_Info(string firstName, string lastName, string emailAddress, DateTime dateofbirth, int? caryear, string carmake, string carmodel, int? speedingtickets, bool dui, bool coverage)
+        public decimal Car_Info(Insuree insuree)
         {
-                using (InsuranceEntities db = new InsuranceEntities())
-                {
-                    var signup = new Insuree();
-                    signup.FirstName = firstName;
-                    signup.LastName = lastName;
-                    signup.EmailAddress = emailAddress;
-                    signup.DateOfBirth = dateofbirth;
-                    signup.CarYear = caryear;
-                    signup.SpeedingTickets = speedingtickets;
-                    signup.DUI = dui;
-                    signup.CoverageType = coverage;
+                    
+                    var firstName = insuree.FirstName;
+                    var lastName = insuree.LastName;
+                    var emailAddress = insuree.EmailAddress;
+                    DateTime dateofbirth = insuree.DateOfBirth;
+                    var caryear = insuree.CarYear;
+                    var carmake = insuree.CarMake;
+                    var carmodel = insuree.CarModel;
+                    var speedingtickets = insuree.SpeedingTickets;
+                    bool dui = insuree.DUI;
+                    bool coverage = insuree.CoverageType;
 
                     //making total base num 50
                     decimal total = 50;
@@ -67,12 +67,12 @@ namespace CarInsurance.Controllers
                     }
 
                     //If the car's Make is a Porsche, add $25 to the price.
-                    if (carmake == "Porsche" && carmodel == "911 Carrera")
+                    if (carmake == "Porsche")
                     {
                         total = total + 25;
                     }
                     //If the car's Make is a Porsche and its model is a 911 Carrera, add an additional $25 to the price.
-                    else if (carmake == "Porsche" && carmodel == "911 Carrera")
+                    if (carmodel == "911 Carrera")
                     {
                         total = total + 25;
                     }
@@ -96,7 +96,6 @@ namespace CarInsurance.Controllers
                     }
 
                 return total;
-                }
             }
 
         // GET: Insuree/Details/5
@@ -129,7 +128,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
-                insuree.Quote = Car_Info(insuree.FirstName, insuree.LastName, insuree.EmailAddress, insuree.DateOfBirth, insuree.CarYear, insuree.CarMake, insuree.CarModel, insuree.SpeedingTickets, insuree.DUI, insuree.CoverageType);
+                insuree.Quote = Car_Info(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -137,6 +136,7 @@ namespace CarInsurance.Controllers
 
             return View(insuree);
         }
+
 
         // GET: Insuree/Edit/5
         public ActionResult Edit(int? id)
@@ -163,7 +163,7 @@ namespace CarInsurance.Controllers
             if (ModelState.IsValid)
             {
                 db.Entry(insuree).State = EntityState.Modified;
-                insuree.Quote = Car_Info(insuree.FirstName, insuree.LastName, insuree.EmailAddress, insuree.DateOfBirth, insuree.CarYear, insuree.CarMake, insuree.CarModel, insuree.SpeedingTickets, insuree.DUI, insuree.CoverageType);
+                insuree.Quote = Car_Info(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
@@ -203,6 +203,11 @@ namespace CarInsurance.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+
+        public ActionResult Admin()
+        {
+            return View(db.Insurees.ToList());
         }
     }
 }
