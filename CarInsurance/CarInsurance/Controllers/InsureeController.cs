@@ -23,10 +23,6 @@ namespace CarInsurance.Controllers
         //GET: Insuree/Calculate/5
         public decimal Car_Info(Insuree insuree)
         {
-                    
-                    var firstName = insuree.FirstName;
-                    var lastName = insuree.LastName;
-                    var emailAddress = insuree.EmailAddress;
                     DateTime dateofbirth = insuree.DateOfBirth;
                     var caryear = insuree.CarYear;
                     var carmake = insuree.CarMake;
@@ -41,16 +37,16 @@ namespace CarInsurance.Controllers
                     var today = DateTime.Today;
                     var age = today.Year - dateofbirth.Year;
                     //If the user is between 19 and 25, add $50 to the monthly total
-                    if (dateofbirth > today.AddYears(-25) && dateofbirth > today.AddYears(+19))
+                    if (age >= 19 && age <= 25)
                     {
                         total = total + 50;
                     }
-                    else if (dateofbirth > today.AddYears(-18))
+                    if (age < 18)
                     {
                         total = total + 100;
                     }
                     //If the user is over 25, add $25 to the monthly total.
-                    else if (dateofbirth > today.AddYears(-100))
+                    if (age > 25)
                     {
                         total = total + 25;
                     }
