@@ -1,7 +1,7 @@
 # C-Projects
 <br>
  Welcome to the Projects that will demonstrate knowledge on fundamentals of .NET and C#. .NET includes a large class library called Framework Class Library and provides language interoperability across several programming languages. C# is an object-oriented programming language that is to precisely define a series of operations that a computer can perform to accomplish a task.
-These are basic projects written in C#. They use various frameworks including .NET and Entity.
+These are basic projects written in C#. They use various frameworks including .NET, Entity and RAZOR.
 <h1>Projects:</h1>
 <br>
 <li>
